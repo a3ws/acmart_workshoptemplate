@@ -1,3 +1,8 @@
+Local adaptation of the acmart package for our workshop series. 
+The details of the latest version before the branch can be found below.
+
+--------------
+
 This package provides a class for typesetting publications of the
 Association for Computing Machinery.
 
